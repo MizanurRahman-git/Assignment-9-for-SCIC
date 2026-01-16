@@ -1,6 +1,11 @@
 import LoginForm from '@/components/pages/LoginForm';
 import React from 'react';
 
+export const metadata = {
+  title: "Login",
+  description: "Best Fast Food In Dhaka,Bangladesh",
+};
+
 const Login = () => {
     return (
         <div className="min-h-screen flex items-center justify-center bg-gray-100 px-4">
