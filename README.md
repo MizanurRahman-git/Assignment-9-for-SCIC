@@ -1,36 +1,57 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🍔 Foodie – Smart Food Ordering Website
 
-## Getting Started
+**Foodie** is a modern and responsive food ordering website where users can explore delicious dishes, browse menus, and place orders easily.
+This project is built using modern frontend technologies to ensure high performance, clean UI, and a smooth user experience.
 
-First, run the development server:
+🔗 **Live Website:**
+👉 [https://foodie-smart-shop.vercel.app](https://foodie-smart-shop.vercel.app)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📌 Website Overview
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Foodie is designed as a food delivery / restaurant landing website that includes:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+* Eye-catching Hero Section
+* Popular and featured food items
+* Menu browsing experience
+* Special offers and discounts
+* About Us and Contact sections
+* Responsive and professional navigation bar
+* Modern UI with smooth interactions
 
-## Learn More
+The website is fully frontend-focused and optimized for speed and usability.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## ✨ Features
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+✔️ Fully Responsive Design (Mobile, Tablet, Desktop)
+✔️ Clean and Modern User Interface
+✔️ Hero Section with Call-To-Action buttons
+✔️ Food Menu Section
+✔️ Special Offers / Discount Section
+✔️ About Us Section
+✔️ Contact Section
+✔️ Reusable React Components
+✔️ Fast performance using Next.js
+✔️ SEO-friendly structure
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🛠️ Technologies Used
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This project is built using the following technologies:
+
+* **Next.js** – React-based framework for fast, scalable, and SEO-friendly web applications
+* **Tailwind CSS** – Utility-first CSS framework for rapid UI development
+* **Lucide React** – Beautiful and customizable icon library
+* **JavaScript (ES6+)**
+
+---
+
+## 👨‍💻 Author
+
+**Mizanur Rahman (Hridoy)**
+Frontend Developer
+Passionate about building modern web applications with React & Next.js
